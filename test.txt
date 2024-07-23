@@ -3,3 +3,4 @@ test
 ・git commit
 いろいろ
 git status
+git diff
