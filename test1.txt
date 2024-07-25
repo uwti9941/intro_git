@@ -1,2 +1,3 @@
 gitチュートリアルの開始
 git statusの学習
+git diffの学習
