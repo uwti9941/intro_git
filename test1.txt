@@ -1,1 +1,2 @@
 gitチュートリアルの開始
+git statusの学習
