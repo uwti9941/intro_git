@@ -1,6 +1,0 @@
-test
-・git add
-・git commit
-いろいろ
-git status
-git diff
